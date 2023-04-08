@@ -14,7 +14,7 @@ namespace WebApiTechnicalTest.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Web API Technical Test";
+            return "Web API Technical Test  ";
         }
     }
 }
